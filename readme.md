@@ -15,7 +15,7 @@ This Flask application provides a simple user authentication and authorization s
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/yaelbikel/flask-authorization-app.git
    ```
 
 2. Install the required dependencies:
@@ -29,7 +29,7 @@ This Flask application provides a simple user authentication and authorization s
 1. Start the Flask server:
 
    ```bash
-   python3 app.py
+   python3 main.py
    ```
 
 2. Access the endpoints using a tool like cURL or Postman.
@@ -72,6 +72,6 @@ This Flask application provides a simple user authentication and authorization s
         - Error (401): Unauthorized.
         - Error (404): File not found.
 
-## Code exaples
+## Code Examples
 
 A working code example can be found in example.py
